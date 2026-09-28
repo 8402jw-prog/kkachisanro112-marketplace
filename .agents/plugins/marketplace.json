@@ -1,1 +1,5 @@
-
+{
+  "name": "kkachisanro112-marketplace",
+  "interface": {"displayName": "까치산로112 제작"},
+  "plugins": [{"name": "kkachisanro112-production", "source": {"source": "local", "path": "./plugins/kkachisanro112-production"}, "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"}, "category": "Productivity"}]
+}
