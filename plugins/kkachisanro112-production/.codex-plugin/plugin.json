@@ -1,0 +1,17 @@
+{
+  "name": "kkachisanro112-production",
+  "version": "0.1.0",
+  "description": "뜨거운 단일 이슈를 지역 맥락과 함께 조사해 30분 기자 3인 라이브 방송을 준비하는 제작 워크플로우",
+  "author": {"name": "까치산로112 제작팀"},
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "까치산로112 제작",
+    "shortDescription": "후보 3개, 조사·검증, 3인 라이브 대본",
+    "category": "Productivity",
+    "capabilities": ["Research", "Write"],
+    "defaultPrompt": [
+      "까치산로112 이번 주 아이템 후보 3개를 찾아줘.",
+      "선정한 이슈 하나로 기자 3인 30분 라이브 초안을 작성해줘."
+    ]
+  }
+}
